@@ -1,0 +1,37 @@
+{
+  "categorias": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "f544",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para comer "
+    },
+    {
+      "id": "674a",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para comer "
+    },
+    {
+      "id": "bbed",
+      "nome": "André",
+      "descricao": "asasfasf"
+    },
+    {
+      "id": "5397",
+      "nome": "André",
+      "descricao": "asfasf"
+    },
+    {
+      "id": "262f",
+      "nome": "André",
+      "descricao": "asfasf"
+    },
+    {
+      "id": "bb27",
+      "nome": "Fernando",
+      "descricao": "asfaf"
+    }
+  ]
+}
