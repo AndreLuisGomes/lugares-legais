@@ -21,6 +21,12 @@ const routes: Routes = [
           import('../lugares/lugares.module').then((m) => m.LugaresModule),
         pathMatch: 'full',
       },
+      {
+        path: 'galerias',
+        loadChildren: () =>
+          import('../galerias/galerias.module').then((m) => m.GaleriasModule),
+        pathMatch: 'full'
+      }
     ],
   },
 ];

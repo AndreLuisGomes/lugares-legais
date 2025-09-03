@@ -27,8 +27,8 @@ export class CategoriaComponent {
         },
         error: (error) => console.error('Ocorreu um erro:', error),
       });
+      this.camposForm.reset();
     }
-    this.camposForm.reset();
   }
 
   isCampoInvalido(nomeCampo: string): boolean {
